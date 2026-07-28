@@ -1,28 +1,3 @@
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED HEADER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Vio%20Adytia%20Syahputra&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Fullstack%20Developer%20%E2%80%A2%20Game%20Dev%20Enthusiast%20%E2%80%A2%20Creative%20Coder&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
-
-<br/>
-
-<!-- PROFILE BADGES -->
-<img src="https://komarev.com/ghpvc/?username=viooo13&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views" />
-&nbsp;
-<a href="mailto:vioadytia30@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-vioadytia30-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://wa.me/6282146495055">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ABOUT ME -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -49,6 +24,34 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 </td>
 </tr>
 </table>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONNECT WITH ME -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://cdn.simpleicons.org/linktree/1f6feb" width="22" /> &nbsp;Connect with Me
+
+<div align="center">
+
+<a href="https://instagram.com/vio.adytia">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:vioadytia30@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://wa.me/6282146495055">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+
 </div>
 
 <br/>
