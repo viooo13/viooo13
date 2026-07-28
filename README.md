@@ -54,7 +54,7 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 ## <img src="https://cdn.simpleicons.org/stackoverflow/1f6feb" width="22" /> &nbsp;Tech Stack & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,cs,php,html,css,react,dotnet,laravel,threejs,tailwind,mysql,postgres,git,github,vscode,visualstudio&perline=8&theme=dark" alt="Tech Stack and Tools" />
+  <img src="https://skillicons.dev/icons?i=js,cs,php,html,css,react,dotnet,laravel,threejs,tailwind,mysql,postgres,git,github,vscode,visualstudio&perline=16&theme=dark" alt="Tech Stack and Tools" />
 </div>
 
 <br/>
