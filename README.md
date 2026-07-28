@@ -4,7 +4,7 @@
 <!-- ANIMATED HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Vio%20Adytia%20Syahputra&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20Game%20Dev%20Enthusiast%20%E2%80%A2%20Creative%20Coder&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Vio%20Adytia%20Syahputra&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Fullstack%20Developer%20%E2%80%A2%20Game%20Dev%20Enthusiast%20%E2%80%A2%20Creative%20Coder&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -29,14 +29,27 @@
 
 ## <img src="https://cdn.simpleicons.org/gravatar/1f6feb" width="22" /> &nbsp;About Me
 
+<div align="center">
+<table>
+<tr>
+<td>
+
+<img width="12" height="12" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=99999&color=FF5F57&vCenter=true&width=0&height=0" alt="" />
+🔴 🟡 🟢 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **~/about-me** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ```yaml
 name: Vio Adytia Syahputra
 location: Bogor, Indonesia
 education: SMKN 1 Ciomas — Software & Game Development (PPLG) | Class of 2027
-focus: Frontend Development, Immersive Web, UI/UX Design
+focus: Fullstack Development, Immersive Web, Game Development
 currently_learning: [ "React.js", "Three.js", "C# .NET", "WebXR" ]
 fun_fact: "I enjoy the bridge between design logic and technical implementation"
 ```
+
+</td>
+</tr>
+</table>
+</div>
 
 <br/>
 
@@ -56,9 +69,13 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 
 <img src="https://skillicons.dev/icons?i=react,dotnet,laravel,threejs,tailwind&theme=dark" alt="Frameworks" />
 
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases" />
+
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,visualstudio&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Tools" />
 
 </div>
 
@@ -69,7 +86,7 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,cs,dotnet,php,html,css,react,laravel,threejs,tailwind,figma,git,github,vscode,visualstudio&perline=8&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,cs,dotnet,php,html,css,react,laravel,threejs,tailwind,mysql,postgres,git,github,vscode,visualstudio&perline=8&theme=dark" alt="Skills" />
 </div>
 
 <br/>
@@ -94,7 +111,6 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 |---------|:----:|-------|-------------|
 | **VR Hajj Simulation** | 2026 | `Three.js` `WebXR` `JavaScript` | Immersive VR simulation of the Hajj pilgrimage with realistic 3D environments |
 | **Web UMKM Platform** | 2026 | `Laravel` `PHP` `TailwindCSS` | Full-stack web platform for small businesses with clean architecture |
-| **Simbernic UI/UX** | 2025 | `Figma` `Design System` | High-fidelity mockups with complete flowcharts and ERD documentation |
 
 <br/>
 
@@ -131,7 +147,7 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 
 ## <img src="https://cdn.simpleicons.org/target/1f6feb" width="22" /> &nbsp;What I'm Up To
 
-- Sharpening my skills in **React.js** and modern Frontend workflows
+- Sharpening my skills in **React.js** and modern Fullstack workflows
 - Exploring **Three.js** and **WebXR** for immersive web experiences
 - Learning **C#** with **.NET** and **Razor Pages** for full-stack development
 - Studying at **SMKN 1 Ciomas** — Class of 2027
