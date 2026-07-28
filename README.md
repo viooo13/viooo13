@@ -51,26 +51,10 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 <!-- TECH STACK -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://cdn.simpleicons.org/stackoverflow/1f6feb" width="22" /> &nbsp;Tech Stack
+## <img src="https://cdn.simpleicons.org/stackoverflow/1f6feb" width="22" /> &nbsp;Tech Stack & Tools
 
 <div align="left">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,cs,php,html,css&theme=dark" alt="Languages" />
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,dotnet,laravel,threejs,tailwind&theme=dark" alt="Frameworks" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Tools" />
-
+  <img src="https://skillicons.dev/icons?i=js,cs,php,html,css,react,dotnet,laravel,threejs,tailwind,mysql,postgres,git,github,vscode,visualstudio&perline=8&theme=dark" alt="Tech Stack and Tools" />
 </div>
 
 <br/>
