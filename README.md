@@ -4,12 +4,12 @@
 <!-- ANIMATED HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Vio%20Adytia%20Syahputra&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20Game%20Dev%20Enthusiast%20%E2%80%A2%20Creative%20Coder&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Vio%20Adytia%20Syahputra&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20Game%20Dev%20Enthusiast%20%E2%80%A2%20Creative%20Coder&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 <br/>
 
 <!-- PROFILE BADGES -->
-<img src="https://komarev.com/ghpvc/?username=viooo13&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=viooo13&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views" />
 &nbsp;
 <a href="mailto:vioadytia30@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-vioadytia30-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -27,7 +27,7 @@
 <!-- ABOUT ME -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://cdn.simpleicons.org/aboutdotme/6e40c9" width="22" /> &nbsp;About Me
+## <img src="https://cdn.simpleicons.org/gravatar/1f6feb" width="22" /> &nbsp;About Me
 
 ```yaml
 name: Vio Adytia Syahputra
@@ -44,7 +44,7 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 <!-- TECH STACK -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://cdn.simpleicons.org/stackoverflow/6e40c9" width="22" /> &nbsp;Tech Stack
+## <img src="https://cdn.simpleicons.org/stackoverflow/1f6feb" width="22" /> &nbsp;Tech Stack
 
 <table align="center">
 <tr>
@@ -113,12 +113,12 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 <!-- PROJECTS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://cdn.simpleicons.org/hackthebox/6e40c9" width="22" /> &nbsp;Featured Projects
+## <img src="https://cdn.simpleicons.org/hackthebox/1f6feb" width="22" /> &nbsp;Featured Projects
 
 <div align="center">
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viooo13&repo=viooo13&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viooo13&repo=viooo13&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
 </a>
 
 </div>
@@ -137,25 +137,25 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 <!-- GITHUB STATS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://cdn.simpleicons.org/githubactions/6e40c9" width="22" /> &nbsp;GitHub Analytics
+## <img src="https://cdn.simpleicons.org/githubactions/1f6feb" width="22" /> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=viooo13&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=6e40c9&title_color=6e40c9&text_color=8b949e&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=viooo13&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=1f6feb&title_color=1f6feb&text_color=8b949e&hide_border=false&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viooo13&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&text_color=8b949e&hide_border=false&langs_count=8" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viooo13&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=1f6feb&text_color=8b949e&hide_border=false&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=viooo13&theme=github-dark-blue&background=0D1117&border=30363D&stroke=30363D&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=viooo13&theme=github-dark-blue&background=0D1117&border=30363D&stroke=30363D&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viooo13&bg_color=0d1117&color=6e40c9&line=6e40c9&point=e6edf3&area=true&area_color=6e40c9&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viooo13&bg_color=0d1117&color=1f6feb&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
 </div>
 
 <br/>
@@ -164,7 +164,7 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 <!-- CURRENTLY -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://cdn.simpleicons.org/target/6e40c9" width="22" /> &nbsp;What I'm Up To
+## <img src="https://cdn.simpleicons.org/target/1f6feb" width="22" /> &nbsp;What I'm Up To
 
 - Sharpening my skills in **React.js** and modern Frontend workflows
 - Exploring **Three.js** and **WebXR** for immersive web experiences
@@ -193,7 +193,7 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
 </div>
 
 <div align="center">
