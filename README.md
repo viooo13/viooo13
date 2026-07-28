@@ -1,101 +1,62 @@
-<!-- Header Banner: Persib Bandung Inspired Colorways -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=002060,001030&height=250&section=header&text=Vio%20Adytia%20Syahputra&fontSize=50&fontColor=ffffff&desc=Pangeran%20Biru's%20Code%20Architect%20|%20Aspiring%20Frontend%20Developer&descSize=20&descColor=DAA520&animation=twinkling" width="100%" alt="Vio Adytia Syahputra | Pangeran Biru's Code Architect" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00529F&height=220&section=header&text=Vio%20Adytia%20Syahputra&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Frontend%20Developer%20%7C%20PPLG%20Student&descSize=20&descColor=e2e8f0" width="100%" />
 </div>
 
-<br/>
-
-<!-- Typing SVG: Dynamic Professional Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=DAA520&center=true&vCenter=true&width=550&lines=Code.%20Strategy.%20Legacy.;Maung%20Bandung's%20Digital%20Forward%20Line;React.js%20&%20Laravel%20Tactician;Building%20Responsive%20Blueprints" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00529F&center=true&vCenter=true&width=500&lines=Frontend+Developer;Crafting+Modern+Interfaces;React.js+%26+Laravel;Clean+Code+Advocate" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<!-- Introduction Text: Merging Passion and Profession -->
-<table align="center" width="80%">
-  <tr>
-    <td align="center">
-      <font size="4">
-        I am a Software and Game Development (PPLG) student with a strong focus on building responsive, interactive, and user-centric web interfaces. My developer journey is fueled by a commitment to perpetual learning and turning complex problems into clean, efficient code, much like the precision of a final pass before a goal. I bring Maung Bandung’s unwavering spirit of determination and tactical thinking to every project I build.
-      </font>
-    </td>
-  </tr>
-</table>
-
----
-
-### About Me: The Blueprint
-
-<!-- A structured 'About Me' table using descriptive icons instead of emojis -->
-<table align="center" width="90%">
-  <tr>
-    <td width="60%" valign="top">
-      <h4>Commitments:</h4>
-      <ul>
-        <li>Current Focus: Sharpening skills in **React.js** and modern Frontend workflows.</li>
-        <li>Academic Journey: Studying at **SMKN 1 Ciomas** (Class of 2027).</li>
-        <li>Philosophy: I thrive on turning complex problems into clean, efficient code.</li>
-        <li>Interests: Combining technical implementation with design logic (UI/UX).</li>
-      </ul>
-    </td>
-    <td width="40%" align="right">
-      <img src="IMAGE_FILENAME_HERE" alt="Vio Adytia Syahputra: Developer and Persib Fan" width="100%" style="border-radius: 12px;"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### Technical Arsenal
-
 <div align="center">
-
-  #### Core Development
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-  <br>
-
-  #### Frameworks & Systems
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-
-  <br>
-
-  #### Tools & Strategy
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-</div>
-
----
-
-### Performance Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&ring_color=DAA520&title_color=ffffff&icon_color=002060" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&ring=002060&fire=DAA520&currStreakNum=ffffff" alt="GitHub Streak" height="175" />
+  <a href="mailto:vioadytia30@gmail.com"><img src="https://img.shields.io/badge/Email-00529F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/6282146495055"><img src="https://img.shields.io/badge/WhatsApp-00529F?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00529F&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=ffffff&langs_count=6" alt="Top Languages" width="450" />
+### About Me
+
+I am a Software and Game Development (PPLG) student with a strong focus on building responsive, interactive, and user-centric web interfaces. I thrive on learning new technologies and turning complex problems into clean, efficient code.
+
+* Currently sharpening my skills in **React.js** and modern Frontend workflows.
+* Studying at **SMKN 1 Ciomas** (Class of 2027).
+* Passionate about the bridge between design logic and technical implementation.
+* Ask me about **UI/UX Design** or **Tailwind CSS**.
+
+<br>
+
+### Tech Stack
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-00529F?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-00529F?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-00529F?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-00529F?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-00529F?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-00529F?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-00529F?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-00529F?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-00529F?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
----
+<br>
 
-### Strategic Communications
+### Highlighted Projects
+
+| Project Name | Year | Tech Stack / Role | Description |
+| :--- | :---: | :--- | :--- |
+| **Web UMKM Platform** | 2026 | Laravel | Developed a robust web architecture focusing on clean code structure and high-performance rendering. |
+| **Simbernic UI/UX** | 2025 | Figma / UI/UX | Collaborated with Data Analysts to create Flowcharts and ERDs. Designed high-fidelity mockups. |
+
+<br>
+
+### GitHub Analytics
 
 <div align="center">
-  <a href="mailto:vioadytia30@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Transmission-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/6282146495055">
-    <img src="https://img.shields.io/badge/Secure_Messaging-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=001630&title_color=ffffff&text_color=e2e8f0&icon_color=00a2ff&ring_color=00529F&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&background=001630&title_color=ffffff&text_color=e2e8f0&icon_color=00a2ff&ring=00529F&fire=00a2ff&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" height="165" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=001630&title_color=ffffff&text_color=e2e8f0&hide_border=true" alt="Top Langs" width="400" />
 </div>
