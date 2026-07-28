@@ -46,56 +46,21 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 
 ## <img src="https://cdn.simpleicons.org/stackoverflow/1f6feb" width="22" /> &nbsp;Tech Stack
 
-<table align="center">
-<tr>
-<td align="center" width="140">
+<div align="center">
 
-### Languages
-</td>
-<td>
+**Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,cs,php,html,css&theme=dark" alt="Languages" />
 
-</td>
-</tr>
+**Frameworks & Libraries**
 
-<tr>
-<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=react,dotnet,laravel,threejs,tailwind&theme=dark" alt="Frameworks" />
 
-### Frameworks
-</td>
-<td>
+**Tools & Platforms**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Razor](https://img.shields.io/badge/Razor_Pages-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,visualstudio&theme=dark" alt="Tools" />
 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="140">
-
-### Tools
-</td>
-<td>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -148,7 +113,7 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=viooo13&theme=github-dark-blue&background=0D1117&border=30363D&stroke=30363D&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=viooo13&theme=github-dark-blue&background=0D1117&border=30363D&stroke=30363D&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 <br/>
