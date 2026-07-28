@@ -28,19 +28,19 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 <br/>
 
 <a href="https://instagram.com/vio.adytia">
-  <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/">
-  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:vioadytia30@gmail.com">
-  <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
 </a>
 &nbsp;
 <a href="https://wa.me/6282146495055">
-  <img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="46" width="46" alt="WhatsApp" />
 </a>
 
 </div>
@@ -105,38 +105,11 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 
 ## <img src="https://cdn.simpleicons.org/githubactions/1f6feb" width="22" /> &nbsp;GitHub Analytics
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=viooo13&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=1f6feb&title_color=1f6feb&text_color=8b949e&hide_border=false&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viooo13&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=1f6feb&text_color=8b949e&hide_border=false&langs_count=8" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=viooo13&theme=github-dark-blue&background=0D1117&border=30363D&stroke=30363D&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub Streak" />
-</div>
-
-<br/>
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=viooo13&bg_color=0d1117&color=1f6feb&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CURRENTLY -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://cdn.simpleicons.org/target/1f6feb" width="22" /> &nbsp;What I'm Up To
-
-- Sharpening my skills in **React.js** and modern Fullstack workflows
-- Exploring **Three.js** and **WebXR** for immersive web experiences
-- Learning **C#** with **.NET** and **Razor Pages** for full-stack development
-- Studying at **SMKN 1 Ciomas** — Class of 2027
-- Open to collaborating on creative web projects
 
 <br/>
 
