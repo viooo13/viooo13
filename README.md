@@ -6,11 +6,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Vio%20Adytia%20Syahputra&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20Game%20Dev%20Enthusiast%20%E2%80%A2%20Creative%20Coder&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Building+immersive+digital+experiences+%F0%9F%9A%80;Turning+ideas+into+pixel-perfect+reality" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- PROFILE BADGES -->
@@ -32,7 +27,7 @@
 <!-- ABOUT ME -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp;About Me
+## <img src="https://cdn.simpleicons.org/aboutdotme/6e40c9" width="22" /> &nbsp;About Me
 
 ```yaml
 name: Vio Adytia Syahputra
@@ -49,7 +44,7 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 <!-- TECH STACK -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+## <img src="https://cdn.simpleicons.org/stackoverflow/6e40c9" width="22" /> &nbsp;Tech Stack
 
 <table align="center">
 <tr>
@@ -118,7 +113,7 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 <!-- PROJECTS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;Featured Projects
+## <img src="https://cdn.simpleicons.org/hackthebox/6e40c9" width="22" /> &nbsp;Featured Projects
 
 <div align="center">
 
@@ -142,7 +137,7 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 <!-- GITHUB STATS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
+## <img src="https://cdn.simpleicons.org/githubactions/6e40c9" width="22" /> &nbsp;GitHub Analytics
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=viooo13&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=6e40c9&title_color=6e40c9&text_color=8b949e&hide_border=false&count_private=true" alt="GitHub Stats" />
@@ -169,7 +164,7 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 <!-- CURRENTLY -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" /> &nbsp;What I'm Up To
+## <img src="https://cdn.simpleicons.org/target/6e40c9" width="22" /> &nbsp;What I'm Up To
 
 - Sharpening my skills in **React.js** and modern Frontend workflows
 - Exploring **Three.js** and **WebXR** for immersive web experiences
