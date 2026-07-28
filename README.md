@@ -94,9 +94,7 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 <!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
-</div>
+
 
 <div align="center">
   <sub>Crafted with passion by <strong>Vio Adytia Syahputra</strong></sub>
