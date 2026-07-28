@@ -77,20 +77,6 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SNAKE ANIMATION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viooo13/viooo13/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viooo13/viooo13/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/viooo13/viooo13/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- GITHUB STATS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -100,6 +86,20 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=viooo13&bg_color=0d1117&color=1f6feb&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- SNAKE ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viooo13/viooo13/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viooo13/viooo13/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/viooo13/viooo13/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
