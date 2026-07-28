@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="./header-bg.jpg" width="100%" alt="Header Background" />
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ABOUT ME -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -11,7 +5,7 @@
 ## <img src="https://cdn.simpleicons.org/gravatar/1f6feb" width="22" /> &nbsp;About Me
 
 <div align="center">
-<table>
+<table background="./header-bg.jpg">
 <tr>
 <td>
 
