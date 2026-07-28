@@ -24,32 +24,23 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 </td>
 </tr>
 </table>
-</div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONNECT WITH ME -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://cdn.simpleicons.org/linktree/1f6feb" width="22" /> &nbsp;Connect with Me
-
-<div align="center">
-
 <a href="https://instagram.com/vio.adytia">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:vioadytia30@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
 <a href="https://wa.me/6282146495055">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
 </div>
@@ -95,25 +86,16 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- PROJECTS -->
+<!-- SNAKE ANIMATION -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://cdn.simpleicons.org/hackthebox/1f6feb" width="22" /> &nbsp;Featured Projects
-
 <div align="center">
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viooo13&repo=viooo13&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
-</a>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viooo13/viooo13/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viooo13/viooo13/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/viooo13/viooo13/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
-
-<br/>
-
-| Project | Year | Stack | Description |
-|---------|:----:|-------|-------------|
-| **VR Hajj Simulation** | 2026 | `Three.js` `WebXR` `JavaScript` | Immersive VR simulation of the Hajj pilgrimage with realistic 3D environments |
-| **Web UMKM Platform** | 2026 | `Laravel` `PHP` `TailwindCSS` | Full-stack web platform for small businesses with clean architecture |
 
 <br/>
 
@@ -158,19 +140,7 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SNAKE ANIMATION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viooo13/viooo13/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viooo13/viooo13/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/viooo13/viooo13/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- FOOTER -->
