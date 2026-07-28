@@ -75,15 +75,6 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SKILL ICONS (VISUAL GRID) -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,cs,dotnet,php,html,css,react,laravel,threejs,tailwind,mysql,postgres,git,github,vscode,visualstudio&perline=8&theme=dark" alt="Skills" />
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- SNAKE ANIMATION -->
