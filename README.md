@@ -53,7 +53,7 @@ fun_fact: "I enjoy the bridge between design logic and technical implementation"
 
 ## <img src="https://cdn.simpleicons.org/stackoverflow/1f6feb" width="22" /> &nbsp;Tech Stack
 
-<div align="center">
+<div align="left">
 
 **Languages**
 
